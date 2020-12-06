@@ -2,10 +2,10 @@
 Webpage for Horiseon Social Solution Services
 
 ## Table of Contents
-* [Overview] (#overview)
-* [Technologies] (#technologies)
-* [Status] (#status)
-* [Screenshot] (#screenshot)
+* Overview
+* Technologies
+* Status
+* Screenshot
 
 ## Overview
 The Horiseon webpage is an assignment using HTML and CSS. The goal of the assignment is to refactor the original code, making it
