@@ -37,13 +37,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
-a {
+header a {
     color: #ffffff;
     text-decoration: none;
+}
+
+.seo {
+    color: #d9dcd6;
 }
 
 p {
