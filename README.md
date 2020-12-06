@@ -2,10 +2,10 @@
 Webpage for Horiseon Social Solution Services
 
 ## Table of Contents
-*[Overview] (#overview)
-*[Technologies] (#technologies)
-*[Status] (#status)
-*[Screenshot] (#screenshot)
+* [Overview] (#overview)
+* [Technologies] (#technologies)
+* [Status] (#status)
+* [Screenshot] (#screenshot)
 
 ## Overview
 The Horiseon webpage is an assignment using HTML and CSS. The goal of the assignment is to refactor the original code, making it
@@ -19,9 +19,9 @@ Project created with:
 ## Status
 To view my finished project please visit the below.
 
-[a link](https://achung92.github.io/horiseon-advertising/)
+[Horiseon Social Solutions Servies](https://achung92.github.io/horiseon-advertising/)
 
 ## Screenshot
 
-![Screenshot] ("../images/01-html-css-git-homework-demo")
+<img src="../images/01-html-css-git-homework-demo.png">
 
