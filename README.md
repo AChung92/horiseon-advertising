@@ -1,4 +1,4 @@
-# horiseon-advertising
+# Horiseon Advertising 
 Webpage for Horiseon Social Solution Services
 
 ## Table of Contents
@@ -23,5 +23,5 @@ To view my finished project please visit the below.
 
 ## Screenshot
 
-<img src="../images/01-html-css-git-homework-demo.png">
+![screenshot](images/01-html-css-git-homework-demo.png)
 
