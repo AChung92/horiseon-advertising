@@ -19,7 +19,7 @@ Project created with:
 ## Status
 To view my finished project please visit the below.
 
-[Horiseon Social Solutions Servies](https://achung92.github.io/horiseon-advertising/)
+[Horiseon Social Solutions Services](https://achung92.github.io/horiseon-advertising/)
 
 ## Screenshot
 
