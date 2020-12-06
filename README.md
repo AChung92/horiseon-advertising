@@ -23,5 +23,5 @@ To view my finished project please visit the below.
 
 ## Screenshot
 
-![screenshot](images/01-html-css-git-homework-demo.png)
+![screenshot](assets/images/01-html-css-git-homework-demo.png)
 
