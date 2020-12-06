@@ -15,6 +15,11 @@ header {
     color: #ffffff;
 }
 
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -35,11 +40,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-header a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 .seo {
